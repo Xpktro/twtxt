@@ -1,0 +1,10 @@
+[twtxt]
+nick = xpktro
+twtfile = /Users/moises/code/twtxt/twtxt.txt
+twturl = https://raw.githubusercontent.com/Xpktro/twtxt/master/twtxt.txt
+use_pager = true
+post_tweet_hook = /Users/moises/code/twtxt/tweet.sh
+
+[following]
+twtxt = https://buckket.org/twtxt_news.txt
+
